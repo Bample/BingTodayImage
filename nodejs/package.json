@@ -1,0 +1,25 @@
+{
+    "name": "bing_todayimage",
+    "version": "1.0.0",
+    "description": "",
+    "main": "App.js",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "express": "^4.17.1",
+
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "node App.js || exit /b 9009"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/YinsTeam/BingTodayImage.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/YinsTeam/BingTodayImage/issues"
+    },
+    "homepage": "https://github.com/YinsTeam/BingTodayImage#readme"
+}
