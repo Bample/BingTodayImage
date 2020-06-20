@@ -6,5 +6,6 @@
 ##### Node.js: [@im-oxygen](https://github.com/im-oxygen)
 ##### Deno: [@im-oxygen](https://github.com/im-oxygen)
 ##### Windows Batch: [@im-oxygen](https://github.com/im-oxygen)
+##### Dart: [@im-oxygen](https://github.com/im-oxygen)
 
 
